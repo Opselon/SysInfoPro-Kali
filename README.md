@@ -125,4 +125,8 @@ SysInfoPro is a pure Bash script that intelligently integrates with the best-in-
 This single command clones the repository, enters the directory, and makes the core script executable.
 
 ```bash
-git clone https://github.com/Opselon/SysInfoPro-Kali.git && cd SysInfoPro-Kali && chmod +x sysinfo.sh
+git clone https://github.com/Opselon/SysInfoPro-Kali.git && \
+cd SysInfoPro-Kali && \
+chmod +x sysinfo.sh && \
+sudo bash sysinfo.sh
+
