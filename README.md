@@ -81,7 +81,7 @@ SysInfoPro is organized into logical, feature-rich modules:
 
 ## ❯ Preview
 
-![SysInfoPro Menu Preview](https://raw.githubusercontent.com/Opselon/SysInfoPro-Kali/main/assets/menu_preview.png) <!-- You will need to create and upload this image to your repo -->
+![SysInfoPro Menu Preview](https://raw.githubusercontent.com/Opselon/SysInfoPro-Kali/main/assets/sysinfopro_logo.png) <!-- You will need to create and upload this image to your repo -->
 
 ---
 
